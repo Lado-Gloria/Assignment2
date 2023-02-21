@@ -110,16 +110,30 @@ border-radius: 2px;
     display: flex;
 }
  .standard{
-    font-size: xx-small;
+    font-size: small;
+    display: flex;
+    padding-right: 20px;
     
  }
- #one{
-    margin: 20px;
+ #day{
+    margin:20px ;
+    padding: 20px;
+    width: 10%;
+    border-top: blue;
+  
  }
  #day2{
-    margin:
+    margin:20px ;
+    padding: 20px;
+    width: 5%;
+    
  }
- #day3{}
+ #day3{
+    margin: 20px;
+    padding: 20px;
+    width: 5%;
+    
+ }
     
     
     
