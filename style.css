@@ -1,35 +1,23 @@
 .content{
+    
     background-color: white;
     width: 600px;
-    
-
     margin: 20px;
     height: 500px;
-    border-bottom: none ;
-    border-top: none;
     padding: 50px;
+    border-radius: 50%;
 
-
- 
     }
     
 .logo{
     width: 20%;
-    height: 10%;
-
-
-    
+    height: 10%;  
 }
-
-    
-
 img{
     height: 300px;
     width: 900px;
     padding: 20px 4px 2px 1px;
-     padding-top: 1px;
-    
-    
+     padding-top: 1px;  
 }
 .paper{
     text-align: center;
@@ -40,19 +28,15 @@ img{
 .text{
     text-align: center;
     margin-left: 40%;
-
 }
 #edit{
     background-color: black;
     color: blue;
-margin-left: 60%;
-    
+margin-left: 60%;   
 }
 .part img{
      width: 60px;
     height: 30px;
-
-
 }
 .percentage{
 display: flex;
@@ -60,10 +44,6 @@ margin-left: 20%;
 width: 20%;
 padding: 2px;
 border-radius: 2px;
-
-
-
-
 }
 .one{
     background-color: aqua;
@@ -71,7 +51,6 @@ border-radius: 2px;
     font-size: small;
     padding: 1em 2em;
     border-radius: 10%;
-
 }
 .two{
     background-color: brown;
@@ -79,11 +58,6 @@ border-radius: 2px;
     font-size:small;
     padding: 1em 2em;
     border-radius: 10%;
-    
-
-    
-
-
 }
 .three{
     background-color: darkmagenta;
@@ -91,9 +65,6 @@ border-radius: 2px;
     font-size:small;
     padding: 1em 2em;
     border-radius: 10%;
-    
-
-    
 }
 .general{
     display: flex;
@@ -112,21 +83,17 @@ border-radius: 2px;
  .standard{
     font-size: small;
     display: flex;
-    padding-right: 20px;
-    
+    padding-right: 20px;  
  }
  #day{
     margin:20px ;
     padding: 20px;
     width: 10%;
-    border-top: blue;
-  
  }
  #day2{
     margin:20px ;
     padding: 20px;
-    width: 5%;
-    
+    width: 5%; 
  }
  #day3{
     margin: 20px;
@@ -134,10 +101,38 @@ border-radius: 2px;
     width: 5%;
     
  }
+ .pink{
+    background-color: blue;
+    padding: 1%;
+    width: 120px;
+ }
+ .blue{
+    background-color: brown;
+    padding: 1%;
+    width: 100px;
+ }
+    .green{
+       background-color: blueviolet;
+       padding: 1%;
+       width: 100px;
+    }
+    .more{
+        display: flex;
+        margin-left: 90%;
+        font-size: small;
     
+    }
+    #more2{
+        margin: 20px;
+    }
     
+    #more3{ 
+        margin: 20px;
+    }
     
-    
+    #more4{
+        margin: 20px;
+    }
 
 
 
